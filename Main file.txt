@@ -1,1 +1,2 @@
 Feature stage 1
+Feature stage 2
