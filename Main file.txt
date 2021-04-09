@@ -4,3 +4,4 @@ Feature stage 2
 Finish feature 1
 
 Feature stage 1
+Feature stage 2
