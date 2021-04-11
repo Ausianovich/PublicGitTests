@@ -7,3 +7,5 @@ Feature stage 1
 Feature stage 2
 
 Feature stage 3
+
+Feature stage 4
