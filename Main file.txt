@@ -2,3 +2,10 @@ Feature stage 1
 Feature stage 2
 
 Finish feature 1
+
+Feature stage 1
+Feature stage 2
+
+Feature stage 3
+
+Feature stage 4
